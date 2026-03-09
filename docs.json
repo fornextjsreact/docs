@@ -88,7 +88,8 @@
             "group": "introduction",
             "pages": [
               "rag_contract/readme",
-              "rag_contract/rag-contract-readme"
+              "rag_contract/rag-contract-readme",
+              "rag_contract/test3"
             ]
           }
         ]
