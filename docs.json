@@ -85,14 +85,13 @@
         "tab": "rag_contract",
         "groups": [
           {
-          "group": "introduction",
-          "pages" : [
-          "rag_contract/readme"
-          ]
+            "group": "introduction",
+            "pages": [
+              "rag_contract/readme",
+              "rag_contract/rag-contract-readme"
+            ]
           }
         ]
-          
-        
       }
     ]
   },
